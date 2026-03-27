@@ -1,0 +1,2 @@
+# 只用Python标准库，无需安装额外依赖
+# urllib, json, ssl, subprocess, argparse 均为内置模块
